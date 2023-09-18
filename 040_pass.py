@@ -1,0 +1,2 @@
+class NombreClase:
+	pass
